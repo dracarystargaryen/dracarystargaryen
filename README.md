@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dracarystargaryen
-- 👀 I’m interested in Blockchaina and Software Engineering
+- 👀 I’m interested in Blockchain and Software Engineering
 - 🌱 I’m currently learning Blockchain programming
 - 💞️ I’m looking to collaborate on Cloudbase servers using SQL
 - 📫 How to reach me 1015HuJ@gmail.com
