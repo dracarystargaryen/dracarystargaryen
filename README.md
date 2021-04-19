@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dracarystargaryen
+- 👋 Hi, I’m Jane Hu
 - 👀 I’m interested in Blockchain and Software Engineering
 - 🌱 I’m currently learning Blockchain programming
 - 💞️ I’m looking to collaborate on Cloudbase servers using SQL
